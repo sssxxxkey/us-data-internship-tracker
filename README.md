@@ -5,7 +5,7 @@
 A community-maintained, evidence-first tracker of U.S. internships in data analytics, business intelligence, data science, and related fields. Each listing links to its source and records only what the available source says about F-1/CPT work authorization: an unstated policy remains **unknown**, not assumed eligible. Listings are grouped by degree level when the source provides clear evidence: undergraduate, graduate/master’s, and PhD/doctoral. A listing may appear in multiple groups if the source mentions multiple levels; unclear postings remain in a separate not-stated group. Within each group, listings are ordered newest-first by the employer’s posting date when available, with first-seen date as a fallback; closing dates appear only when stated by the source.
 
 <!-- JOBS_TABLE_START -->
-**260 unique listings currently present in the tracked sources** · Last refreshed 2026-10-18T19:50:04+00:00
+**260 unique listings currently present in the tracked sources** · Last refreshed 2026-10-18T22:01:23+00:00
 
 A posting may appear in more than one degree group when the source mentions multiple education levels. These are automated text signals, not a final eligibility decision; confirm requirements on the employer posting. “Not stated” means the checked source did not provide clear degree-level evidence.
 
